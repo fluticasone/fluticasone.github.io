@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![Image of mountain](https://github.com/fluticasone/fluticasone.github.io/blob/master/source/1.jpg)
+![Image of mountain](https://fluticasone.github.io/source/1.jpg)
 
 You can use the [editor on GitHub](https://github.com/fluticasone/fluticasone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
